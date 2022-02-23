@@ -1,6 +1,6 @@
 # coollang
 
-concatanative programming language inspired by [Porth](https://gitlab.com/tsoding/porth) and [Forth](https://en.wikipedia.org/wiki/Forth)
+concatanative programming language inspired by [Porth](https://gitlab.com/tsoding/porth) and [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language) )
 
 ## quick start
 
