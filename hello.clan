@@ -1,0 +1,6 @@
+inc "std.clan"
+
+main(): {
+    "Hello, World!\n" printf
+    ret
+}
