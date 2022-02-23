@@ -7,6 +7,8 @@
 #include <windows.h>
 #endif
 
+//
+
 int eputs(const char *str)
 {
     printf("[ERROR]: %s\n", str);
